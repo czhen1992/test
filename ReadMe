@@ -50,3 +50,9 @@
 #
 #git stash pop xxx   restore & drop
 #
+#
+#git checkout -- Readme --> if Readme not be added to straged, we can use this cmd to undo what we modify.
+#
+#git reset HEAD Readme  --> used to make staged file to working directory
+#
+#
