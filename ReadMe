@@ -15,6 +15,13 @@
 #
 #git commit -m "commnet xxxxxxx"
 #
+#5. merge
+#  if HEAD is on t-1 now, we should merge it to master
+#
+#  	git checkout master
+#
+#  	git merge t-1   (Fast forward)
+#  	git merge  --no-ff -m "comment xxxxx" t-1 (disable fast forward)
 #
 #
 #
@@ -32,3 +39,14 @@
 #
 #set current code for origin upstream
 #git push --set-upstream origin t-1
+#
+#git stash      ------> save working directory
+#
+#git stash list ------> view all saving working directory
+#
+#git stash apply xxx -> restore one working directory
+#
+#git stash drop xxx
+#
+#git stash pop xxx   restore & drop
+#
