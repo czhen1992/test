@@ -25,6 +25,7 @@
 #
 #git init      -----> used to init a repository
 #
+#associte local repo and remote repo
 #git remote add origin https://github.com/czhen1992/test.git
 #
 #git push -u origin master
