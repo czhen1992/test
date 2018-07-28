@@ -1,5 +1,9 @@
 ######
-#clone source code
+#1.clone source code
 #
 #git clone https://github.com/czhen1992/test.git
 
+#2.create new branch for coding
+#
+#git checkout -b t-1
+#
