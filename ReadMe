@@ -29,3 +29,6 @@
 #git remote add origin https://github.com/czhen1992/test.git
 #
 #git push -u origin master
+#
+#set current code for origin upstream
+#git push --set-upstream origin t-1
