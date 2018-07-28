@@ -15,3 +15,16 @@
 #
 #git commit -m "commnet xxxxxxx"
 #
+#
+#
+#
+#
+#Others:
+#
+#git status    -----> used to view modifiy files in staged
+#
+#git init      -----> used to init a repository
+#
+#git remote add origin https://github.com/czhen1992/test.git
+#
+#git push -u origin master
