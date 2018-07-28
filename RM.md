@@ -13,7 +13,7 @@ Here are some examples of Markdown syntax.
 
 #### Ordered list
 
-1.Item 1
+1.Item 1 
 2.Item 2
 
 > And this is a blockquote
